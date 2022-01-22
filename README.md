@@ -1,5 +1,4 @@
-
-#Final Projects for Laboratory of Computational Physics
+### Final Projects for Laboratory of Computational Physics
 
 In each of the branches of this repo you find all the necessary to complete your final project.
 In particular the file Project.ipynb describes the projects and provides guidance to its development.
