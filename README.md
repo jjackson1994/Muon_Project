@@ -1,8 +1,8 @@
 # Task Assigment 
 
-Mariam 1 & 2
-Daniel 4 
-Jake 3 & 5
+Mariam 1 & 2  
+Daniel 4  
+Jake 3 & 5  
 Walter 6
 
 In each of the branches of this repo you find all the necessary to complete your final project.
