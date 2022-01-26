@@ -1,6 +1,6 @@
 # Task Assigment 
 
-<img src="task_list.PNG" alt="drawing" width="600"/>
+<img src="task_list.PNG" alt="drawing" width="1200"/>
 
 
 Mariam 1 & 2  
