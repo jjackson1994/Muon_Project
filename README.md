@@ -5,6 +5,10 @@ Daniel 4
 Jake 3 & 5  
 Walter 6
 
+Task 7 looks quite big and we don't understand it so we will work how to do it later. 
+Task 8 looks okay, we can assign it later.
+Task 9 optional but looks okay. 
+
 In each of the branches of this repo you find all the necessary to complete your final project.
 In particular the file Project.ipynb describes the projects and provides guidance to its development.
 Other files could be present if needed.
