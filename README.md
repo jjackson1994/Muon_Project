@@ -1,5 +1,8 @@
 # Task Assigment 
 
+<img src="task_list.PNG" alt="drawing" width="600"/>
+
+
 Mariam 1 & 2  
 Daniel 4  
 Jake 3 & 5  
