@@ -2,27 +2,28 @@
 
 **Presentation Line UP**
 
-**Marium**
-  -Introduce concept
-  -introduce Differential and Total Cross Section
-  -Introduce Probability Density Functions
+**Marium**  
+  -Introduce concept  
+  -introduce Differential and Total Cross Section  
+  -Introduce Probability Density Functions  
   
-**Daniel**
-  -Inverse Sampling Technique
-  -Simulation Results
-  -Explain and Show Realistic Beam version of monete carlo
+**Daniel**  
+  -Inverse Sampling Technique  
+  -Simulation Results  
+  -Explain and Show Realistic Beam version of monete carlo  
 
-**Jake**
-  -Introduce 4 momentua and boosting
-  -Show Momentum Distribution before and after realistic beam considerations
-**Walter**
-  -Show Scaling Factor Calculation
-  -Show Nominal Beam Energy Calculation
+**Jake**  
+  -Introduce 4 momentua and boosting  
+  -Show Momentum Distribution before and after realistic beam considerations  
 
-**Conclusion**
-Place a few main graphs and highlight main ideas presented. 
+**Walter**    
+  -Show Scaling Factor Calculation  
+  -Show Nominal Beam Energy Calculation  
 
-**Part 9, may or may not be fitted in after walters bit**
+**Conclusion**  
+Place a few main graphs and highlight main ideas presented.   
+
+**Part 9, may or may not be fitted in after walters bit**  
 
 <img src="task_list.PNG" alt="drawing" width="1200"/>
 
