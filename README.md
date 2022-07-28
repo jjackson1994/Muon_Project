@@ -2,7 +2,7 @@
 
 **Presentation Line UP**
 
-**Marium**  
+**Mariam**  
   -Introduce concept  
   -introduce Differential and Total Cross Section  
   -Introduce Probability Density Functions  
